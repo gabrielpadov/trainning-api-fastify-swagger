@@ -1,0 +1,1 @@
+# trainning-api-fastify-swagger
